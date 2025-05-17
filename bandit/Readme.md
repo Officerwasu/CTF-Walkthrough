@@ -73,3 +73,17 @@ The password for the next level is stored in the only human-readable file in the
 
 password is `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
 
+## Level 5-6
+
+#### Level Goal
+The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+
+human-readable
+1033 bytes in size
+not executable
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/2bac2688-11c9-4b93-9853-c85f18e8a8d9)
+
+password is `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
