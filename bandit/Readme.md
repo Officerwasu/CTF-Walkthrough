@@ -116,7 +116,38 @@ The password for the next level is stored in the file data.txt next to the word 
 
 password `dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`
 
-## L
+## Level 8-9
 
+#### Level Goal
 
+The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 
+#### Solution 
+
+![image](https://github.com/user-attachments/assets/30b79f81-fa35-468a-8e81-175b7659d6c7)
+
+password `4CKMh1JI91bUIZZPXDqGanal4xvAg0JM`
+
+## Level 9-10
+
+#### Level Goal
+
+The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/d4998fd5-68ed-45e7-9b71-4f79a4ed9a08)
+
+password `FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey`
+
+## Level 10-11
+
+#### Level Goal
+
+The password for the next level is stored in the file data.txt, which contains base64 encoded data
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/a5597cf4-0bae-4241-8c3f-ac665413c01a)
+
+password is `dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr`
