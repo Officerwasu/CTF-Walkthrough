@@ -23,3 +23,5 @@ The password for the next level is stored in a file called readme located in the
 
 password is `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
+** Now login to bandit1 with this password using ssh **
+
