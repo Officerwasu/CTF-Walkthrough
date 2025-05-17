@@ -87,3 +87,36 @@ not executable
 ![image](https://github.com/user-attachments/assets/2bac2688-11c9-4b93-9853-c85f18e8a8d9)
 
 password is `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
+
+## Level 6-7
+
+#### Level Goal
+
+The password for the next level is stored somewhere on the server and has all of the following properties:
+
+owned by user bandit7
+owned by group bandit6
+33 bytes in size
+
+#### Solution 
+
+![image](https://github.com/user-attachments/assets/868442a5-2ed1-4f60-920b-7ffaf26f3ead)
+
+password `morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj`
+
+## Level 7-8
+
+#### Level Goal
+
+The password for the next level is stored in the file data.txt next to the word millionth
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/72ce5f5b-51c0-4781-afba-3492cde886d2)
+
+password `dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`
+
+## L
+
+
+
