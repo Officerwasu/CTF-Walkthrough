@@ -1,3 +1,3 @@
-# CTF-Walkthrough 
-In this repo all the ctf walkthroughs will be stored 
+Walkthrough 
+In this repo all the walkthroughs fro overthewire will be stored 
 
