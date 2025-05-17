@@ -11,7 +11,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 and put in the password `bandit0`
 
-## Level 1
+## Level 0-1
 
 #### Level Goal
 
@@ -24,4 +24,17 @@ The password for the next level is stored in a file called readme located in the
 password is `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
 **Now login to bandit1 with this password using ssh**
+
+## Level 1-2
+
+#### Level Goal
+
+The password for the next level is stored in a file called - located in the home directory
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/b4aa8fdc-e742-40f2-a8c1-941484134ee0)
+
+password is `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
+
 
