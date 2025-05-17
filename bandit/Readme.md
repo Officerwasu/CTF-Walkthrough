@@ -37,4 +37,35 @@ The password for the next level is stored in a file called - located in the home
 
 password is `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
 
+## Level 2-3
+
+#### Level Goal
+
+The password for the next level is stored in a file called spaces in this filename located in the home directory
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/3aa3931c-7ae2-404f-9685-a8ea9c6eda9d)
+
+password is `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
+
+## Level 3-4
+
+#### Level Goal
+
+The password for the next level is stored in a hidden file in the inhere directory.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/4942deb6-b965-40c8-ae29-dd9b3b6e5292)
+
+password is `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
+
+## Level 4-5
+
+#### Level Goal
+
+The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
+
+#### Solution
 
