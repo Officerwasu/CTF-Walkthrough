@@ -151,3 +151,19 @@ The password for the next level is stored in the file data.txt, which contains b
 ![image](https://github.com/user-attachments/assets/a5597cf4-0bae-4241-8c3f-ac665413c01a)
 
 password is `dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr`
+
+## Level 11-12
+
+#### Level Goal
+
+The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/50f3aa37-6bb5-4cc0-bfbd-93b38ee1e717)
+
+password `7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4`
+
+
+
+
