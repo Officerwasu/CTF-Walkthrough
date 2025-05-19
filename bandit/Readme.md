@@ -222,7 +222,37 @@ password `8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo`
 
 #### Level Goal
 
+The password for the next level can be retrieved by submitting the password of the current level to port 30001 on localhost using SSL/TLS encryption.
+
+Helpful note: Getting “DONE”, “RENEGOTIATING” or “KEYUPDATE”? Read the “CONNECTED COMMANDS” section in the manpage.
 
 
+#### Solution
+
+![image](https://github.com/user-attachments/assets/d0ae94cb-49e4-4ec1-a4e2-8f56adce2fb5)
 
 
+`kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx`
+
+## Level 16-17
+
+#### Level Goal
+The credentials for the next level can be retrieved by submitting the password of the current level to a port on localhost in the range 31000 to 32000. First find out which of these ports have a server listening on them. Then find out which of those speak SSL/TLS and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
+
+Helpful note: Getting “DONE”, “RENEGOTIATING” or “KEYUPDATE”? Read the “CONNECTED COMMANDS” section in the manpage.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/5bfb9016-ba83-4c30-8dae-5855a203bc81)
+
+![image](https://github.com/user-attachments/assets/6bdbca4f-efb0-474b-aed8-988cae8bc177)
+
+![image](https://github.com/user-attachments/assets/caccacf7-8a36-41a8-903f-b90f81ada097)
+
+![image](https://github.com/user-attachments/assets/b297e1ce-e896-4c7c-9de5-580f3ca3af15)
+
+![image](https://github.com/user-attachments/assets/a52e8f2c-fe74-42f5-9e18-a0c929edfa0b)
+
+![image](https://github.com/user-attachments/assets/bcb29d9d-9fdd-48e4-80af-27dd5703e856)
+
+password `EReVavePLFHtFlFsjn3hyzMlvSuSAcRD`
