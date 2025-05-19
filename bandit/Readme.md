@@ -191,6 +191,26 @@ This wlll need a complete guide
 
 password `FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`
 
+## Level 13-14
+
+#### Level Goal
+
+The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. Note: localhost is a hostname that refers to the machine you are working on
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/97067dfc-63c8-496b-afed-94c0e115596d)
+
+![image](https://github.com/user-attachments/assets/bbebdda5-1111-49ce-868b-345184212a1e)
+
+passowrd `MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS`
+
+## Level 14-15
+
+#### Level Goal
+
+The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
+
 
 
 
