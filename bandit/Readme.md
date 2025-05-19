@@ -269,3 +269,16 @@ NOTE: if you have solved this level and see ‘Byebye!’ when trying to log int
 ![image](https://github.com/user-attachments/assets/40020e9f-ac26-4159-b771-a3aaaf76675b)
 
 password `x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO`
+
+## Level 18-19
+
+#### Level Goal
+
+The password for the next level is stored in a file readme in the homedirectory. Unfortunately, someone has modified .bashrc to log you out when you log in with SSH.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/8c6eb1cf-0b90-47d8-a1b1-e3b3895c5119)
+![image](https://github.com/user-attachments/assets/929eea5e-d8f2-4a86-9234-31fbd74fda86)
+
+password `cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8`
