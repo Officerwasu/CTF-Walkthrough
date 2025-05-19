@@ -211,6 +211,16 @@ passowrd `MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS`
 
 The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
 
+#### Solution
+
+
+![image](https://github.com/user-attachments/assets/bf0fb657-b62b-4c85-8eb3-5a04f0e42b39)
+
+password `8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo`
+
+## Level 15-16
+
+#### Level Goal
 
 
 
