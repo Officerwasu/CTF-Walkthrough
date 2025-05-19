@@ -268,4 +268,4 @@ NOTE: if you have solved this level and see ‘Byebye!’ when trying to log int
 
 ![image](https://github.com/user-attachments/assets/40020e9f-ac26-4159-b771-a3aaaf76675b)
 
-password `C6XNBdYOkgt5ARXESMKWWOUwBeaIQZ0Y`
+password `x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO`
