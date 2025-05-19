@@ -256,3 +256,16 @@ Helpful note: Getting “DONE”, “RENEGOTIATING” or “KEYUPDATE”? Read t
 ![image](https://github.com/user-attachments/assets/bcb29d9d-9fdd-48e4-80af-27dd5703e856)
 
 password `EReVavePLFHtFlFsjn3hyzMlvSuSAcRD`
+
+## Level 17-18
+
+#### Level Goal
+There are 2 files in the homedirectory: passwords.old and passwords.new. The password for the next level is in passwords.new and is the only line that has been changed between passwords.old and passwords.new
+
+NOTE: if you have solved this level and see ‘Byebye!’ when trying to log into bandit18, this is related to the next level, bandit19
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/40020e9f-ac26-4159-b771-a3aaaf76675b)
+
+password `C6XNBdYOkgt5ARXESMKWWOUwBeaIQZ0Y`
