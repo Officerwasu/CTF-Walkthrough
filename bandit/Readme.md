@@ -175,6 +175,15 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 okay that was really difficult 😭
 This wlll need a complete guide
 
+![image](https://github.com/user-attachments/assets/335a04f7-35ee-42e4-9bed-b0bffcdfd282)
+
+![image](https://github.com/user-attachments/assets/018184cd-e3f0-4220-8e64-668d27d11255)
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/e76837ea-8670-48d3-b4b4-7d21fe19f8a9)
 
 password `FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`
