@@ -276,7 +276,7 @@ password `x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO`
 
 The password for the next level is stored in a file readme in the homedirectory. Unfortunately, someone has modified .bashrc to log you out when you log in with SSH.
 
-#### Solution
+#### Solution 
 
 ![image](https://github.com/user-attachments/assets/8c6eb1cf-0b90-47d8-a1b1-e3b3895c5119)
 ![image](https://github.com/user-attachments/assets/929eea5e-d8f2-4a86-9234-31fbd74fda86)
