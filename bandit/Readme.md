@@ -7,9 +7,9 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 #### Solution
 
-`ssh bandit0@bandit.labs.overthewire.org -p 2220` 
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
 
-and put in the password `bandit0`
+and put in the password `bandit0` 
 
 ## Level 0-1
 
