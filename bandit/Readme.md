@@ -112,7 +112,7 @@ The password for the next level is stored in the file data.txt next to the word 
 
 #### Solution
 
-![image](https://github.com/user-attachments/assets/72ce5f5b-51c0-4781-afba-3492cde886d2)
+![image](https://github.com/user-attachments/assets/72ce5f5b-51c0-4781-afba-3492cde886d2) 
 
 password `dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`
 
