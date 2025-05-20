@@ -69,7 +69,7 @@ The password for the next level is stored in the only human-readable file in the
 
 #### Solution
 
-![image](https://github.com/user-attachments/assets/9156bd1b-39a0-47a2-bcd1-b43a00306190)
+![image](https://github.com/user-attachments/assets/9156bd1b-39a0-47a2-bcd1-b43a00306190) 
 
 password is `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
 
