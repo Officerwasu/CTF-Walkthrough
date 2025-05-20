@@ -282,3 +282,6 @@ The password for the next level is stored in a file readme in the homedirectory.
 ![image](https://github.com/user-attachments/assets/929eea5e-d8f2-4a86-9234-31fbd74fda86)
 
 password `cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8`
+
+
+
