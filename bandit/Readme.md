@@ -306,4 +306,14 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 
 `EeoULMCra2q0dSkYj561DX7s1CpBuOBt`
 
+## Level 21-22
 
+#### Level Goal
+
+A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/c1847c5a-4da3-49fd-afbf-2eeb47fda88a)
+
+`tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q`
