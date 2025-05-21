@@ -294,7 +294,16 @@ To gain access to the next level, you should use the setuid binary in the homedi
 
 password `0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO`
 
+## Level 20-21
 
+#### Level Goal
 
+There is a setuid binary in the homedirectory that does the following: it makes a connection to localhost on the port you specify as a commandline argument. It then reads a line of text from the connection and compares it to the password in the previous level (bandit20). If the password is correct, it will transmit the password for the next level (bandit21).
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/3d1b5c18-e9cd-496e-87eb-38c8482c9557)
+
+`EeoULMCra2q0dSkYj561DX7s1CpBuOBt`
 
 
