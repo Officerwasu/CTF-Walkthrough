@@ -304,7 +304,7 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 
 ![image](https://github.com/user-attachments/assets/3d1b5c18-e9cd-496e-87eb-38c8482c9557)
 
-`EeoULMCra2q0dSkYj561DX7s1CpBuOBt`
+password `EeoULMCra2q0dSkYj561DX7s1CpBuOBt`
 
 ## Level 21-22
 
