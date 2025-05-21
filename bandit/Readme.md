@@ -283,7 +283,16 @@ The password for the next level is stored in a file readme in the homedirectory.
 
 password `cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8`
 
+## Level 19-20
 
+#### Level Goal
+
+To gain access to the next level, you should use the setuid binary in the homedirectory. Execute it without arguments to find out how to use it. The password for this level can be found in the usual place (/etc/bandit_pass), after you have used the setuid binary.
+
+#### Solution
+![image](https://github.com/user-attachments/assets/2ca5b82f-e6fd-4f1e-9652-b29bc06c57e1)
+
+password `0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO`
 
 
 
