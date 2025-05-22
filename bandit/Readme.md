@@ -320,6 +320,8 @@ password `tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q`
 
 ## Level 22-23
 
+#### Level Goal
+
 A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
 
 NOTE: Looking at shell scripts written by other people is a very useful skill. The script for this level is intentionally made easy to read. If you are having problems understanding what it does, try executing it to see the debug information it prints.
@@ -330,3 +332,22 @@ NOTE: Looking at shell scripts written by other people is a very useful skill. T
 ![image](https://github.com/user-attachments/assets/96373026-7306-4767-93c7-3a762424e216)
 
 password `0Zf11ioIjMVN551jX3CmStKLYqjk54Ga`
+
+
+## Level 23-24
+
+#### Level Goal
+
+A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
+
+NOTE: This level requires you to create your own first shell-script. This is a very big step and you should be proud of yourself when you beat this level!
+
+NOTE 2: Keep in mind that your shell script is removed once executed, so you may want to keep a copy around…
+
+#### Soution
+
+
+
+
+
+
