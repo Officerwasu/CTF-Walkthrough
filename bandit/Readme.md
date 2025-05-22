@@ -347,7 +347,10 @@ NOTE 2: Keep in mind that your shell script is removed once executed, so you may
 #### Soution
 
 
+![image](https://github.com/user-attachments/assets/4cfe28e2-c2b4-4def-8f92-af15353de363)
+![image](https://github.com/user-attachments/assets/729879ef-074b-4f08-9da4-0f5c0f672aa0)
+![image](https://github.com/user-attachments/assets/10b97f8d-aeae-4a6a-ba3d-ef9ea708c8bb)
+![image](https://github.com/user-attachments/assets/06ef0eae-53ac-48ce-9679-9b827313fd25)
 
-
-
+password `gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8`
 
