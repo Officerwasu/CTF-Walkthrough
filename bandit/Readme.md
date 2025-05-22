@@ -354,3 +354,15 @@ NOTE 2: Keep in mind that your shell script is removed once executed, so you may
 
 password `gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8`
 
+## Level 24-25
+
+#### Level Goal
+
+A daemon is listening on port 30002 and will give you the password for bandit25 if given the password for bandit24 and a secret numeric 4-digit pincode. There is no way to retrieve the pincode except by going through all of the 10000 combinations, called brute-forcing.
+You do not need to create new connections each time.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/a6daf9bd-7293-45d9-9ac5-4de38b7746c2)
+![image](https://github.com/user-attachments/assets/0fc66756-c05c-4751-8ae7-7f1a7006c366)
+![image](https://github.com/user-attachments/assets/60ed9b1b-6d20-4bd2-af3f-c206bde33ba4)
