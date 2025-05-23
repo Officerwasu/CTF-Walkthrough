@@ -435,3 +435,21 @@ Go to the temp folder and make a directory
 ![image](https://github.com/user-attachments/assets/1d854f47-9e1e-4c90-96ae-f96528434609)
 
 password `Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN`
+
+
+## Level 28-29
+
+#### Level Goal
+
+There is a git repository at ssh://bandit28-git@localhost/home/bandit28-git/repo via the port 2220. The password for the user bandit28-git is the same as for the user bandit28.
+
+Clone the repository and find the password for the next level.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/c972b29d-382e-431f-992e-7af2df2c1f50)
+
+![image](https://github.com/user-attachments/assets/a29366ef-18a7-42b6-9831-4065d6183ba3)
+
+
+
