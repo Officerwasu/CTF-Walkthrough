@@ -506,6 +506,9 @@ Clone the repository and find the password for the next level.
 
 ![image](https://github.com/user-attachments/assets/deecdb0e-96a3-4653-a677-6c173ac75efc)
 
+![image](https://github.com/user-attachments/assets/86413505-51fd-4de1-931a-bcf97b4029c5)
+
+password `3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K`
 
 ## Level 32-33
 
