@@ -402,4 +402,22 @@ we use vi to execute `cat /etc/bandit_password/bandit26`
 password `s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ`
 
 
+**Now accesesing this is really difficult** 
+you will need to use vim inside of more and set the shell to /bin/bash after that you will be able to access it
+
+
+## Level 26-27
+
+#### Level Goal
+
+Good job getting a shell! Now hurry and grab the password for bandit27!
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/1e30c67f-7a0f-468a-bad0-d4aaeab32e82)
+
+password `upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB`
+
+## Level 27-28
+
 
