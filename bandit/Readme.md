@@ -475,3 +475,20 @@ A first few steps are the same the only difference is you have to switch to the 
 ![image](https://github.com/user-attachments/assets/a389c6de-12ce-42a3-aea0-647491a98f85)
 
 password `qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL`
+
+## Level 31-32
+
+#### Level Goal
+
+There is a git repository at ssh://bandit30-git@localhost/home/bandit30-git/repo via the port 2220. The password for the user bandit30-git is the same as for the user bandit30.
+
+Clone the repository and find the password for the next level.
+
+#### Solution
+
+same as the earlier levels but the only change was it had a tag
+
+![image](https://github.com/user-attachments/assets/edae32a2-23a6-45c2-80bc-e8ed657082c7)
+
+password `fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy`
+
