@@ -369,7 +369,7 @@ You do not need to create new connections each time.
 
 password `iCi86ttT4KSNe1armKiwbQNmB3YJP3q4`
 
-## Level 24-25
+## Level 25-26
 
 #### Level Goal
 
@@ -378,6 +378,22 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 NOTE: if you’re a Windows user and typically use Powershell to ssh into bandit: Powershell is known to cause issues with the intended solution to this level. You should use command prompt instead.
 
 #### Solution
+okay so we got the ssh private key but it was not logging in bash insted it was laoding in somthing called showtext
+
+![image](https://github.com/user-attachments/assets/69543b87-5985-4133-ad50-c6612863853c)
+
+contents of text.txt
+
+![image](https://github.com/user-attachments/assets/672dd679-4045-4c9e-ae2f-bbed6647a3a0)
+
+![image](https://github.com/user-attachments/assets/b7ef05a2-a3f4-444f-ae10-72005b19a6bc)
+
+it was using more 
+
+
+
+
+password `s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ`
 
 
 
