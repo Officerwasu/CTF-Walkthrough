@@ -518,3 +518,6 @@ After all this git stuff, it’s time for another escape. Good luck!
 
 #### Solution
 
+![image](https://github.com/user-attachments/assets/bf5016c6-9a70-4384-afd3-788cc3049ef7)
+
+password `tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0`
