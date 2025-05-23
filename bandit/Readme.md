@@ -382,15 +382,21 @@ okay so we got the ssh private key but it was not logging in bash insted it was 
 
 ![image](https://github.com/user-attachments/assets/69543b87-5985-4133-ad50-c6612863853c)
 
+![image](https://github.com/user-attachments/assets/b7ef05a2-a3f4-444f-ae10-72005b19a6bc)
+
 contents of text.txt
 
 ![image](https://github.com/user-attachments/assets/672dd679-4045-4c9e-ae2f-bbed6647a3a0)
 
-![image](https://github.com/user-attachments/assets/b7ef05a2-a3f4-444f-ae10-72005b19a6bc)
+
 
 it was using more 
 
+in more
 
+we use vi to execute `cat /etc/bandit_password/bandit26`
+
+![image](https://github.com/user-attachments/assets/9f016aee-cb2f-4b7d-8ced-815a97c079e9)
 
 
 password `s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ`
