@@ -452,4 +452,18 @@ Clone the repository and find the password for the next level.
 ![image](https://github.com/user-attachments/assets/a29366ef-18a7-42b6-9831-4065d6183ba3)
 
 
+![image](https://github.com/user-attachments/assets/7aea08d0-09b8-4f6a-9a0a-f6dd3da7b16a)
+
+
+password `4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7`
+
+## Level 29-30
+
+#### Level Goal
+
+There is a git repository at ssh://bandit29-git@localhost/home/bandit29-git/repo via the port 2220. The password for the user bandit29-git is the same as for the user bandit29.
+
+Clone the repository and find the password for the next level.
+
+#### Solution
 
