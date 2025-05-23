@@ -476,7 +476,7 @@ A first few steps are the same the only difference is you have to switch to the 
 
 password `qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL`
 
-## Level 31-32
+## Level 30-31
 
 #### Level Goal
 
@@ -491,4 +491,27 @@ same as the earlier levels but the only change was it had a tag
 ![image](https://github.com/user-attachments/assets/edae32a2-23a6-45c2-80bc-e8ed657082c7)
 
 password `fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy`
+
+## Level 31-32
+
+#### Level Goal
+
+There is a git repository at ssh://bandit31-git@localhost/home/bandit31-git/repo via the port 2220. The password for the user bandit31-git is the same as for the user bandit31.
+
+Clone the repository and find the password for the next level.
+
+#### Solution
+
+![image](https://github.com/user-attachments/assets/0091daa2-3be6-4e44-923b-5f53e8f2b32e)
+
+![image](https://github.com/user-attachments/assets/deecdb0e-96a3-4653-a677-6c173ac75efc)
+
+
+## Level 32-33
+
+#### Level Goal 
+
+After all this git stuff, it’s time for another escape. Good luck!
+
+#### Solution
 
