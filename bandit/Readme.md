@@ -420,4 +420,18 @@ password `upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB`
 
 ## Level 27-28
 
+#### Level Goal
 
+There is a git repository at ssh://bandit27-git@localhost/home/bandit27-git/repo via the port 2220. The password for the user bandit27-git is the same as for the user bandit27.
+
+Clone the repository and find the password for the next level.
+
+#### Solution
+
+Go to the temp folder and make a directory
+
+![image](https://github.com/user-attachments/assets/a9b5771d-6f96-4deb-9755-49b0c77203f0)
+
+![image](https://github.com/user-attachments/assets/1d854f47-9e1e-4c90-96ae-f96528434609)
+
+password `Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN`
