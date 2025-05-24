@@ -50,6 +50,15 @@ password `QryZXc2e0zahULdHrtHxzyYkj59kUxLQ`
 
 ## Natas 3-4
 
+you need to use a tool like burp suite or owasp zap to intercept the request and change the referer to natas5 
+
+![image](https://github.com/user-attachments/assets/fc97d4d1-9fa6-4ee7-97a5-d6a6a3b7a54c)
+
+![image](https://github.com/user-attachments/assets/c2929bde-17cd-446b-a18a-a2ae0fa2ba84)
+
+password `0n35PkggAPm2zbEpOU802c0x0Msn1ToK`
+
+## Natas 4-5
 
 
 
