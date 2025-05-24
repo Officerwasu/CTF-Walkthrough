@@ -22,3 +22,15 @@ Just view page source and you'll be able to see the password
 
 ![image](https://github.com/user-attachments/assets/8142c32c-8528-4f59-89ab-c2a3112e84ab)
 
+password `0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq `
+
+## Natas 0-1
+
+Just use ctrl+shift+i to inspect
+![image](https://github.com/user-attachments/assets/e6ac6545-895f-4889-bd3f-896cb86afe3e)
+
+password `TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI`
+
+## Natas 1-2
+
+
