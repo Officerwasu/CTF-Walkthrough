@@ -38,3 +38,18 @@ password `TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI`
 ![image](https://github.com/user-attachments/assets/1be0f6a2-f9a6-4386-a823-6b5ea2dfa471)
 
 password `3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH`
+
+## Natas 2-3
+
+In this level just check for the /robots.txt in the website
+and we find s3cr3t directory
+
+![image](https://github.com/user-attachments/assets/5fa547f7-c80f-4c7f-95b9-1ec84d06a711)
+
+password `QryZXc2e0zahULdHrtHxzyYkj59kUxLQ`
+
+## Natas 3-4
+
+
+
+
