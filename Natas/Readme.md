@@ -13,3 +13,12 @@ Username: natas0
 Password: natas0
 
 URL:      http://natas0.natas.labs.overthewire.org
+
+
+
+## Natas 0
+
+Just view page source and you'll be able to see the password
+
+![image](https://github.com/user-attachments/assets/8142c32c-8528-4f59-89ab-c2a3112e84ab)
+
