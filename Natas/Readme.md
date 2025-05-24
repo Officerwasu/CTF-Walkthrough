@@ -33,4 +33,8 @@ password `TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI`
 
 ## Natas 1-2
 
+![image](https://github.com/user-attachments/assets/fcad5295-c447-4102-a9c1-1d0445369e7d)
 
+![image](https://github.com/user-attachments/assets/1be0f6a2-f9a6-4386-a823-6b5ea2dfa471)
+
+password `3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH`
