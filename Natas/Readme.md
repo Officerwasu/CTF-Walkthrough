@@ -42,7 +42,7 @@ password `3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH`
 ## Natas 2-3
 
 In this level just check for the /robots.txt in the website
-and we find s3cr3t directory
+and we find s3cr3t directory is disallowed
 
 ![image](https://github.com/user-attachments/assets/5fa547f7-c80f-4c7f-95b9-1ec84d06a711)
 
