@@ -74,4 +74,14 @@ password `0RoJwHdSKWFTYR5WuiAewauSuNaBXned`
 
 ## Natas 5-6
 
+after looking at the sourc code there's this file includes/secret.inc
 
+![image](https://github.com/user-attachments/assets/19276e3c-9213-4c8f-8ebd-1380a3303e34)
+
+there is the secret in it's source code
+
+![image](https://github.com/user-attachments/assets/3532a41e-65c4-4582-9828-f484cfed4d1e)
+
+![image](https://github.com/user-attachments/assets/46c79cfa-cb70-4ae0-86c3-5ce51ec93039)
+
+password `bmg8SvU1LizuWjx3y7xkNERkHxGre0GS`
