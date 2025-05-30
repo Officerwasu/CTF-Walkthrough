@@ -117,3 +117,7 @@ then from base64
 ![image](https://github.com/user-attachments/assets/987795b5-918d-4ab4-9754-94165a6fcf6f)
 
 password `ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t`
+
+## Natas 8-9
+
+
