@@ -122,7 +122,7 @@ password `ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t`
 
 ![image](https://github.com/user-attachments/assets/608801e2-e14b-4af5-9a10-9befa1b73682)
 
-as you can see the variable key is getting ececuted in a command 
+as you can see the variable is getting ececuted in a command 
 
 let's try command injection
 
@@ -138,3 +138,21 @@ now
 
 password `t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu`
 
+## Natas 9-10
+
+![image](https://github.com/user-attachments/assets/e334c5ea-02af-4011-8ea6-87c4ccb49132)
+
+this is same as the previous one but there is basic filterung used 
+
+let's check a online cheetsheet for command injection
+
+and we found it
+
+`%0Acat%20/etc/natas_webpass/natas11`
+
+putting this in the needle variable
+
+![image](https://github.com/user-attachments/assets/5c56022d-0559-44d7-9f36-283ab1147dbc)
+
+
+password `UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk`
