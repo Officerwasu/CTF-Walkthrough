@@ -102,3 +102,18 @@ so if we do `http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_
 password `xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q`
 
 ## Natas 7-8
+
+after viewing [age source we find a encoded value
+
+![image](https://github.com/user-attachments/assets/88a8edd1-0069-4daa-8aa5-045421883b1e)
+
+as you can see in the function
+first let's convert it from hex 
+then reverse 
+then from base64
+
+![image](https://github.com/user-attachments/assets/6429d206-2a18-475d-b0e9-82f8f5ba817a)
+
+![image](https://github.com/user-attachments/assets/987795b5-918d-4ab4-9754-94165a6fcf6f)
+
+password `ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t`
