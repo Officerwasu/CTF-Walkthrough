@@ -120,4 +120,21 @@ password `ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t`
 
 ## Natas 8-9
 
+![image](https://github.com/user-attachments/assets/608801e2-e14b-4af5-9a10-9befa1b73682)
+
+as you can see the variable key is getting ececuted in a command 
+
+let's try command injection
+
+![image](https://github.com/user-attachments/assets/15849985-ec51-4721-99c1-35a593aaee65)
+
+it is working
+
+now
+
+`whatever; cat /etc/natas_webpass/natas10`
+
+![image](https://github.com/user-attachments/assets/38c9f6a2-8560-4397-8546-27a84f985955)
+
+password `t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu`
 
