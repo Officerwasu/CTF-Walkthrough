@@ -60,6 +60,14 @@ password `0n35PkggAPm2zbEpOU802c0x0Msn1ToK`
 
 ## Natas 4-5
 
+Just login on the webpage refresh the page a few times 
 
+set the cookie: loggedin to 1
 
+![image](https://github.com/user-attachments/assets/ba684f1e-8802-4ed5-8614-fcd181bc29d7)
 
+send the request
+
+![image](https://github.com/user-attachments/assets/b8510f82-4a99-474e-9685-1164e80a59bf)
+
+password `0RoJwHdSKWFTYR5WuiAewauSuNaBXned`
